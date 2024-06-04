@@ -1,0 +1,50 @@
+[
+    {
+        "customerId": 2343225,
+        "contractId": 2345,
+        "geozone": "us_east",
+        "teamcode": "RedTeam",
+        "projectcode": "ProjectApple",
+        "buildduration": 3445
+    },
+    {
+        "customerId": 1223456,
+        "contractId": 2345,
+        "geozone": "us_west",
+        "teamcode": "BlueTeam",
+        "projectcode": "ProjectBanana",
+        "buildduration": 2211
+    },
+    {
+        "customerId": 3244332,
+        "contractId": 2346,
+        "geozone": "us_east",
+        "teamcode": "RedTeam",
+        "projectcode": "ProjectApple",
+        "buildduration": 3456
+    },
+    {
+        "customerId": 1233456,
+        "contractId": 2346,
+        "geozone": "us_west",
+        "teamcode": "BlueTeam",
+        "projectcode": "ProjectBanana",
+        "buildduration": 3312
+    },
+    {
+        "customerId": 3244132,
+        "contractId": 2347,
+        "geozone": "us_east",
+        "teamcode": "RedTeam",
+        "projectcode": "ProjectCarrot",
+        "buildduration": 3445
+    },
+    {
+        "customerId": 1233457,
+        "contractId": 2347,
+        "geozone": "us_west",
+        "teamcode": "BlueTeam",
+        "projectcode": "ProjectBanana",
+        "buildduration": 2445
+    }
+]
